@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Floating BR Lion
+Comment=Bubbles the British Railways logo around the screen
+Exec=/usr/lib/mate-screensaver/mate-screensaver/floaters /usr/share/pixmaps/btc-logo.svg
+TryExec=/usr/lib/mate-screensaver/mate-screensaver/floaters
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Screensaver;
+Keywords=MATE;screensaver;logo;bubbles;
+OnlyShowIn=MATE;
