@@ -6,6 +6,6 @@ Architecture: all
 Depends: mate-screensaver
 Version: 1
 Description: Extra floaters for the MATE Screensaver.
- Includes logos for Debian and Linux Mint plus British Rail double arrows and GWR Roundel.
+ Includes logos for Debian and Linux Mint plus British Rail double arrows, lion and wheel, LNER and GWR Roundel.
 
 
