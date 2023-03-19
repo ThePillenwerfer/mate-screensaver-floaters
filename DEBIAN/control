@@ -1,11 +1,11 @@
 Package: mate-screensaver-floaters
-Priority: extra
-Section: Applications/Emulators
+Priority: optional
+Section: misc
 Maintainer: none
 Architecture: all
 Depends: mate-screensaver
 Version: 1
 Description: Extra floaters for the MATE Screensaver.
- Includes Tux, logos for Debian and Linux Mint plus British Rail double arrows, lion and wheel, London Transport, LNER and GWR Roundel.
+ Includes Tux, logos for Debian and Linux Mint plus British Rail double arrows, London Transport, GWR Roundel Yorkshire Rose and Welsh Dragon.
 
 
