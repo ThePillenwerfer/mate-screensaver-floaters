@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Floating Welsh Dragon
+Comment=Bubbles a Welsh Dragon around the screen
+Exec=/usr/lib/mate-screensaver/mate-screensaver/floaters /usr/share/pixmaps/Welsh Dragon.svg
+TryExec=/usr/lib/mate-screensaver/mate-screensaver/floaters
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Screensaver;
+Keywords=MATE;screensaver;logo;bubbles;
+OnlyShowIn=MATE;
