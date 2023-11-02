@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Floating LT
+Comment=Bubbles London Transport the screen
+Exec=/usr/lib/mate-screensaver/mate-screensaver/floaters /usr/share/pixmaps/lt-logo.svg
+TryExec=/usr/lib/mate-screensaver/mate-screensaver/floaters
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Screensaver;
+Keywords=MATE;screensaver;logo;bubbles;
+OnlyShowIn=MATE;

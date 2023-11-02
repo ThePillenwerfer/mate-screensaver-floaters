@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="br-logo.svg"
+   x="0px"
+   y="0px"
+   width="48"
+   height="29.05261"
+   viewBox="23.622 16.534 48.000002 29.05261"
+   enable-background="new 23.622 16.534 179.527 108.662"
+   xml:space="preserve"><metadata
+   id="metadata4125"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4123" />
+<sodipodi:namedview
+   id="base"
+   inkscape:zoom="1.405"
+   borderopacity="1.0"
+   showgrid="true"
+   inkscape:cy="60.733864"
+   inkscape:cx="158.17718"
+   objecttolerance="10000"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   inkscape:document-rotation="0"
+   inkscape:window-x="0"
+   inkscape:window-maximized="1"
+   inkscape:window-y="0"
+   inkscape:pagecheckerboard="false"
+   inkscape:pageopacity="1"
+   inkscape:document-units="mm"
+   inkscape:window-height="730"
+   inkscape:pageshadow="2"
+   inkscape:current-layer="layer1"
+   inkscape:window-width="1280">
+	
+		<inkscape:grid
+   units="mm"
+   type="xygrid"
+   id="grid4269"
+   spacingx="1.66667"
+   empspacing="6"
+   visible="true"
+   spacingy="1.66667"
+   dotted="false"
+   originx="1.0842022e-15"
+   originy="-3.4613542e-06">
+		</inkscape:grid>
+	
+		<inkscape:grid
+   units="mm"
+   type="xygrid"
+   id="grid4271"
+   spacingx="0.41666666"
+   empspacing="4"
+   visible="true"
+   enabled="true"
+   spacingy="0.41666999"
+   dotted="true"
+   originx="1.0842022e-15"
+   originy="-3.4613542e-06">
+		</inkscape:grid>
+</sodipodi:namedview>
+<g
+   id="layer1"
+   transform="translate(0,-326.60939)"
+   inkscape:label="Layer 1"
+   inkscape:groupmode="layer">
+	<path
+   id="path4275"
+   sodipodi:nodetypes="ccccccccccccccccccccc"
+   inkscape:connector-curvature="0"
+   d="m 71.622,350.09071 v 4.42122 H 58.674644 l -12.631593,6.3158 H 71.622 v 4.42095 H 46.043051 L 62.780099,372.196 H 51.411558 L 36.569356,365.24868 H 23.622 v -4.42095 h 12.947356 l 12.631861,-6.3158 H 23.622 v -4.42095 h 25.579217 l -16.737048,-6.94759 h 11.36854 l 14.842203,6.94759 z"
+   style="fill:#ff4200;stroke-width:0.26736927" />
+</g>
+</svg>
